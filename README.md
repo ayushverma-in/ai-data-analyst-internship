@@ -16,9 +16,10 @@ Researched and compiled data on 10 NGOs across India spanning education, animal 
 
 ## Task 2: AI Report — The Rise of Volunteering & Youth Engagement in India
 An AI-assisted data analysis report examining how volunteering and youth civic engagement are evolving in India — key statistics, emerging trends (youth-led initiatives, hybrid and micro-volunteering, CSR-backed programs), and insights on generosity and participation patterns across age and gender.
-🔗 [LinkedIn post](https://www.linkedin.com/posts/ayushverma-web_ai-report-youth-volunteering-trends-in-india-activity-7491399000210997248-tt5l?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF7JApoBqLjhWD7JIHQMcc-bPsxk9C9PeTo)
 
 📄 [`AI_Report_Youth_Volunteering_India.pdf`](./task2-ai-report-youth-volunteering/AI_Report_Youth_Volunteering_India.pdf)
+🔗 [LinkedIn post](https://www.linkedin.com/posts/ayushverma-web_ai-report-youth-volunteering-trends-in-india-activity-7491399000210997248-tt5l?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF7JApoBqLjhWD7JIHQMcc-bPsxk9C9PeTo)
+
 
 ## Task 3: Volunteer & Internship Opportunities Compilation
 Compiled a list of 16 internships, fellowships, and volunteering programs for students across India, including eligibility, mode of work, and application links.

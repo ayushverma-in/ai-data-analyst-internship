@@ -38,7 +38,7 @@ Proposed 5 AI-driven ideas and strategies to help NGOs improve outreach, volunte
 ## Certificate
 Internship Completion Certificate issued by InAmigos Foundation.
 
-📄 [`certificate/`](./certificate/)
+📄 [`certificate`](./certificate/)
 
 ## Skills Demonstrated
 Data collection & research · Excel/spreadsheet organization · AI-assisted report writing · data-driven insight generation · nonprofit strategy communication

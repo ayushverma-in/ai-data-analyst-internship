@@ -4,6 +4,8 @@
 **Duration:** August 2026
 **Organization:** InAmigos Foundation — a multi-sector NGO working across education, healthcare, women empowerment, animal welfare, and environmental conservation in India.
 
+### [Internship Experience](./images/Ayush_Verm_photo_testimonial.png)
+
 This repo documents the 4 tasks completed during the internship, covering NGO research, AI-assisted data analysis, and strategic insights for nonprofit growth.
 
 ---
